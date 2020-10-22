@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Luan Nguyen
 permalink: /about/
 ---
 
